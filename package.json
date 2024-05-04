@@ -1,0 +1,14 @@
+{
+  "name": "pgats",
+  "version": "1.0.0",
+  "description": "Projeto de conclusão da disciplina de Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Coelho, Ana Cláudia",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
